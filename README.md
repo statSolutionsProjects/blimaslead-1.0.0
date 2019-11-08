@@ -73,9 +73,13 @@
   
    # 2.1.1     Work Content Production 
   
-  o	We have machinery at the office premises where work is done, company buys materials from the market to enable production. The company has a digital printer that deals with all paper printable. The work is only out sourced if the quantities are big and require offset printing as it turns out to be cheaper. In this case different paper is bought and used when there is an order. The Digital printer also prints office stationary like letter heads, envelopes etc. o	The Roland is a large format printer company uses to print banners, stickers, posters, pull up banners, etc. 
+  o	We have machinery at the office premises where work is done, company buys materials from the market to enable production. The company has a digital printer that deals with all paper printable. The work is only out sourced if the quantities are big and require offset printing as it turns out to be cheaper. In this case different paper is bought and used when there is an order. The Digital printer also prints office stationary like letter heads, envelopes etc. 
   
-  o	The sublimation machine prints flags, teardrop banners, cloth material. The jobs the company receives where we don’t have machines are out sourced from either out of the country or from other service providers within who can provide a similar service. o	All orders are registered before any production, signed off and Approved by the client, production and the finance department.
+  o	The Roland is a large format printer company uses to print banners, stickers, posters, pull up banners, etc. 
+  
+  o	The sublimation machine prints flags, teardrop banners, cloth material. The jobs the company receives where we don’t have machines are out sourced from either out of the country or from other service providers within who can provide a similar service. 
+  
+  o	All orders are registered before any production, signed off and Approved by the client, production and the finance department.
   
   o	Before production, samples are also signed off by the client.
   
@@ -96,7 +100,11 @@
   
   o	  Comparative current year / Previous year o	Comparative current year / Budget
   
-  o	  Comparative current year / Period / Previous quarter and the following profit-and-loss statements: o	  Current period / Previous year o	   Current period / Budget 
+  o	  Comparative current year / Period / Previous quarter and the following profit-and-loss statements: 
+  
+  o	  Current period / Previous year 
+  
+  o	   Current period / Budget 
   
   o	 Current period / Year-to-date
   
@@ -110,15 +118,25 @@
   
   o	   Current quarter / Year-to-date / Budget                         Roles of Finance and Admin o	Prepare quotations 
   
-  o	Manage company cash and expenses o	Manage company receipts and expenses 
+  o	Manage company cash and expenses
+  
+  o	Manage company receipts and expenses 
   
   o	Ensure banking is done in a timely manner. - Reconciliation o	Responsible for sending debt reminders to clients o	Manage and issue invoices, Receipts, Delivery notes etc. to clients. 
   
-  o	Stock taking o	File returns 
+  o	Stock taking
   
-  o	Updating asset registrar  o	Debtors and credit management
+  o	File returns 
   
-  o	Writing minutes o	Over all supervision of all departments o	Prepare Bid documents.  Sales and Marketing 
+  o	Updating asset registrar 
+  
+  o	Debtors and credit management
+  
+  o	Writing minutes 
+  
+  o	Over all supervision of all departments 
+  
+  o	Prepare Bid documents.  Sales and Marketing 
   
   o	In charge of marketing the company and making sales
   
@@ -141,16 +159,64 @@
   
   o	Preparing proposals and presentations for prospective clients. 
   
-  o	Share daily reports on activities performed. o	Share suggestions from time and again on improving sales. 
+  o	Share daily reports on activities performed. 
   
-  o	Inform management of any upcoming campaigns were Brimas could Partner and also get brand visibility. o	Participate in exhibitions on behalf of the company like Annual trade show o	Ensuring Proper storage of samples, present and also ensure samples are returned.   Transport and Logistics o	Deliver the right items that have been verified and signed off by head of quality assurance.  o	Make purchases on behalf of the company. o	Ensure items are delivered in time. o	Transporting company staff o	In charge of all company vehicles, and motor Bikes. Sales Department o	Sales personnel/ department is/ are required to ensure sales are made,  follow ups on quotations sent, follow up on bids where company, and ensure right orders are taken and delivered on time. o	 Finance and admin ( Anitah and Sam) o	Respond to quotations o	Financial reports o	Identifying right suppliers for the company, both reliable and offering competitive prices. o	Provide accountability and manage petty cash o	Ensure production of items is done and delivered in time. o	Follow up with pending payments o	Issue the right documentation to clients ie receipts, invoices, order books, job cards etc. Transport and logistics  o	Ensure only verified items are delivered   2.2.2	Work Flow, Role Description, Decision Making and Control Specification 	Each of the requirements described above are small processes that may require information to move from one department to another or from one user to the other. For each area, identify the small processes, Describe information flow, the users involved and the rights/role each user should have. 2.2.3	Reporting  	For each area/Department, List and describe the type and format of the reports needed.          3.	Technical Specifications   3.1	 Basic Structure of the System  The System will basically be an integrated enterprise resource planning application with four major modules: Accounting Module, Procurement and Supply Management Module, Hr Management Module, Customer Relationship Management Module. The suggested name for the System is BrimasLead. These modules will however be applied seamlessly in BrimasLead without necessarily demarcating the specific module.   This will work in a way that each user will be assigned rights and the user will access the module according to the rights that they have been granted. For example, when a user with accountant rights logs into the system, they will access the account module window and resources. This means different users will access the system differently according to their roles. This is to help in the ownership and accountability of records.  The system will have a user Dashboard where common functionalities will be shared. These may include but not limited to: Employee Profile-Personal (Contact, email, emery contact, bank account etc.); Job (Job Information, Job family framework, Performance etc.); User Photo and Menu to other modules depending on what they are doing. The System will be purely web based though it will be able to be deployed as standalone or on the LAN network   
+  o	Share suggestions from time and again on improving sales. 
+  
+  o	Inform management of any upcoming campaigns were Brimas could Partner and also get brand visibility.
+  
+  o	Participate in exhibitions on behalf of the company like Annual trade show 
+  
+  o	Ensuring Proper storage of samples, present and also ensure samples are returned.   Transport and Logistics o	Deliver the right items that have been verified and signed off by head of quality assurance. 
+  
+  o	Make purchases on behalf of the company. 
+  
+  o	Ensure items are delivered in time. 
+  
+  o	Transporting company staff 
+  
+  o	In charge of all company vehicles, and motor Bikes. Sales Department
+  
+  o	Sales personnel/ department is/ are required to ensure sales are made,  follow ups on quotations sent, follow up on bids where company, and ensure right orders are taken and delivered on time. 
+  
+  o	 Finance and admin ( Anitah and Sam)
+  
+  o	Respond to quotations 
+  
+  o	Financial reports 
+  
+  o	Identifying right suppliers for the company, both reliable and offering competitive prices. 
+  
+  o	Provide accountability and manage petty cash
+  
+  o	Ensure production of items is done and delivered in time. 
+  
+  o	Follow up with pending payments
+  
+  o	Issue the right documentation to clients ie receipts, invoices, order books, job cards etc. Transport and logistics
+  
+  o	Ensure only verified items are delivered  
+  
+ # 2.2.2	Work Flow, Role Description, Decision Making and Control Specification
+  
+  	Each of the requirements described above are small processes that may require information to move from one department to another or from one user to the other. For each area, identify the small processes, Describe information flow, the users involved and the rights/role each user should have. 
+  
+ # 2.2.3	Reporting  
+  
+  	For each area/Department, List and describe the type and format of the reports needed.         
+  
+ # 3.	Technical Specifications  
+  
+  3.1	 Basic Structure of the System  The System will basically be an integrated enterprise resource planning application with four major modules: Accounting Module, Procurement and Supply Management Module, Hr Management Module, Customer Relationship Management Module. The suggested name for the System is BrimasLead. These modules will however be applied seamlessly in BrimasLead without necessarily demarcating the specific module.   This will work in a way that each user will be assigned rights and the user will access the module according to the rights that they have been granted. For example, when a user with accountant rights logs into the system, they will access the account module window and resources. This means different users will access the system differently according to their roles. This is to help in the ownership and accountability of records.  The system will have a user Dashboard where common functionalities will be shared. These may include but not limited to: Employee Profile-Personal (Contact, email, emery contact, bank account etc.); Job (Job Information, Job family framework, Performance etc.); User Photo and Menu to other modules depending on what they are doing. The System will be purely web based though it will be able to be deployed as standalone or on the LAN network   
   
   
   
-  3.1.1 Workflow Involved 
+  # 3.1.1 Workflow Involved 
   
   
-  3.1.1.1	Accounts Workflow:  It’s expected to offer a simple way to create chart of accounts, ledgers, transactions, posting interface and financial reports. Basically, the financial reports expected include but not limited to the following: 
+#  3.1.1.1	Accounts Workflow:
+  
+  It’s expected to offer a simple way to create chart of accounts, ledgers, transactions, posting interface and financial reports. Basically, the financial reports expected include but not limited to the following: 
   
   •	Ledger statements
   
@@ -161,7 +227,11 @@
   
   •	Profit and Loss statement •	Cash flow statement
   
-  •	Trial balance  This accounting package will be designed in such a way that other business processes can be integrated with it. Such business processes include: Procurement and Supply Chain Management, Customer Relation Management, Pay Roll Management and Hr Management etc  Currency: Transactions and operations in the whole system will be conducted in multicurrency. The system will support 25 currencies. The system will however have a default currency where by an equivalent of each currency transacted will be kept in the default currency. Furthermore, an exchange rate from the default currency to each of the currencies supported by the system will be maintained on a daily basis. This will enable generation of reports in any of the currencies supported at any point in time by converting the default currencies equivalent to the currency specified using the stored daily exchange rate. 
+  •	Trial balance  
+  
+  This accounting package will be designed in such a way that other business processes can be integrated with it. Such business processes include: Procurement and Supply Chain Management, Customer Relation Management, Pay Roll Management and Hr Management etc  Currency: Transactions and operations in the whole system will be conducted in multicurrency. 
+  
+  The system will support 25 currencies. The system will however have a default currency where by an equivalent of each currency transacted will be kept in the default currency. Furthermore, an exchange rate from the default currency to each of the currencies supported by the system will be maintained on a daily basis. This will enable generation of reports in any of the currencies supported at any point in time by converting the default currencies equivalent to the currency specified using the stored daily exchange rate. 
   
   
   
